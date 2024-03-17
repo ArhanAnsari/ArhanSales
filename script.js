@@ -1,0 +1,1 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/darkreader/4.9.58/darkreader.js"></script>
